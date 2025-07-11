@@ -1,5 +1,5 @@
 # payment_flow_backend
-payment-flow-backend/
+github.com/Sadja18/payment-flow-backend/
 ├── main.go
 ├── config/
 │   └── db.go
